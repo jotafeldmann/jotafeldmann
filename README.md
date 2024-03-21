@@ -15,8 +15,8 @@
 
 ## I write about tech
 
-- [dev.to/jotafeldmann](dev.to/jotafeldmann)
-- [stackoverflow.com/users/3010938/jotafeldmann](stackoverflow.com/users/3010938/jotafeldmann)
+- [dev.to/jotafeldmann](https://dev.to/jotafeldmann)
+- [stackoverflow.com/users/3010938/jotafeldmann](https://stackoverflow.com/users/3010938/jotafeldmann)
 
 ## Let's Keep in Touch  
 

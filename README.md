@@ -13,6 +13,11 @@
   </tr>
 </table>
 
+## I write about tech
+
+- [dev.to/jotafeldmann](dev.to/jotafeldmann)
+- [stackoverflow.com/users/3010938/jotafeldmann](stackoverflow.com/users/3010938/jotafeldmann)
+
 ## Let's Keep in Touch  
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jota__feldmann)

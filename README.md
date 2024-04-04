@@ -17,12 +17,16 @@
 
 - [dev.to/jotafeldmann](https://dev.to/jotafeldmann)
 - [stackoverflow.com/users/3010938/jotafeldmann](https://stackoverflow.com/users/3010938/jotafeldmann)
-- [replit.com/@jotafeldmann](https://replit.com/@jotafeldmann)
 
 ## Current open source projects
 
 - [Node CLI parameter getter](https://www.npmjs.com/package/cli-parameter-getter)
 - [npmjs.com/~jotafeldmann](https://www.npmjs.com/~jotafeldmann)
+
+## Dev things
+
+- [HackerRank profile](https://www.hackerrank.com/profile/jotafeldmann)
+- [replit.com/@jotafeldmann](https://replit.com/@jotafeldmann)
 
 ## Let's keep in touch  
 

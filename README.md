@@ -17,6 +17,7 @@
 
 - [dev.to/jotafeldmann](https://dev.to/jotafeldmann)
 - [stackoverflow.com/users/3010938/jotafeldmann](https://stackoverflow.com/users/3010938/jotafeldmann)
+- [replit.com/@jotafeldmann](https://replit.com/@jotafeldmann)
 
 ## Current open source projects
 

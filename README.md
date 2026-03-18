@@ -20,8 +20,7 @@ Welcome!
 - [replit.com/@jotafeldmann](https://replit.com/@jotafeldmann)
 
 ## More
-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jota__feldmann)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotafeldmann)
+- [Twitter](https://twitter.com/jota__feldmann)
 - [AWS Profile](https://skillsprofile.skillbuilder.aws/user/jotafeldmann/simulearn)
 - [Google Profile](https://g.dev/jotafeldmann)
 - [Chess.com](https://www.chess.com/member/jotafeldmann)

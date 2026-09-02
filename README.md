@@ -1,27 +1,41 @@
-# Jota Feldmann
+# ✻ Jota Feldmann
 
-![GitHub followers](https://img.shields.io/github/followers/jotafeldmann?style=social)
+```text
+╭─── Jota Feldmann ───────────────────────────────────────╮
+│                                                        │
+│  ✻  Building, learning and sharing on the web.         │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
 
-Welcome!
+[![GitHub followers](https://img.shields.io/github/followers/jotafeldmann?style=social)](https://github.com/jotafeldmann?tab=followers)
 
-## I write about tech
+> A small map of the places where I write, publish open-source work, practice and explore.
 
-- [dev.to/jotafeldmann](https://dev.to/jotafeldmann)
-- [stackoverflow.com/users/3010938/jotafeldmann](https://stackoverflow.com/users/3010938/jotafeldmann)
+## `$ ls writing/`
 
-## Current open source projects
+- **[DEV Community](https://dev.to/jotafeldmann)** — writing about technology.
+- **[Stack Overflow](https://stackoverflow.com/users/3010938/jotafeldmann)** — questions, answers and
+  shared knowledge.
 
-- [Node CLI parameter getter](https://www.npmjs.com/package/cli-parameter-getter)
-- [npmjs.com/~jotafeldmann](https://www.npmjs.com/~jotafeldmann)
+## `$ ls open-source/`
 
-## Dev things
+- **[Node CLI Parameter Getter](https://www.npmjs.com/package/cli-parameter-getter)** — a command-line
+  parameter utility published on npm.
+- **[npm](https://www.npmjs.com/~jotafeldmann)** — all my published packages.
 
-- [HackerRank profile](https://www.hackerrank.com/profile/jotafeldmann)
-- [replit.com/@jotafeldmann](https://replit.com/@jotafeldmann)
+## `$ ls playgrounds/`
 
-## More
-- [Twitter](https://twitter.com/jota__feldmann)
-- [AWS Profile](https://skillsprofile.skillbuilder.aws/user/jotafeldmann/simulearn)
-- [Google Profile](https://g.dev/jotafeldmann)
-- [Chess.com](https://www.chess.com/member/jotafeldmann)
+- **[HackerRank](https://www.hackerrank.com/profile/jotafeldmann)**
+- **[Replit](https://replit.com/@jotafeldmann)**
 
+## `$ open elsewhere`
+
+[Twitter](https://twitter.com/jota__feldmann) ·
+[AWS Skill Builder](https://skillsprofile.skillbuilder.aws/user/jotafeldmann/simulearn) ·
+[Google for Developers](https://g.dev/jotafeldmann) ·
+[Chess.com](https://www.chess.com/member/jotafeldmann)
+
+---
+
+`✻ session complete — thanks for stopping by.`

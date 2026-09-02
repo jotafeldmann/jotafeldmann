@@ -1,7 +1,7 @@
 # Professional experience before OLX
 
-> **Publication status:** Draft - facts and dates must be reviewed before this branch is merged or
-> published.
+> **Content note:** Published with conservative year-level dates reconstructed from historical CV
+> material. Month-level differences remain documented for later review.
 
 My career in software began in 1998, initially building websites and web applications and later moving
 through teaching, full-stack development, payment systems, software architecture and reliability work.

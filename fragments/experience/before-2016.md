@@ -35,8 +35,8 @@ Built and maintained web applications across frontend and backend layers.
 
 ## Teaching and the early web
 
-Between 1998 and 2010, I combined commercial web development with teaching. I worked with HTML, CSS,
-JavaScript, PHP, ASP, MySQL, Flash and ActionScript, and taught web and game development as well as
+Between 1998 and 2010, I combined commercial web development with teaching. I worked with Java, HTML,
+CSS, JavaScript, PHP, ASP, MySQL, Flash and ActionScript, and taught web and game development as well as
 introductory computer skills.
 
 Roles during this period included freelance HTML development, PHP and full-stack development, web

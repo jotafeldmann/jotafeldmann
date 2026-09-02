@@ -42,13 +42,3 @@ introductory computer skills.
 Roles during this period included freelance HTML development, PHP and full-stack development, web
 design, webmaster work and teaching at schools and a university center. In 2000, I also developed a
 student registration system using Visual Basic 6.0 while teaching basic computer skills.
-
-## Career progression
-
-This period traces a progression from the early web to increasingly complex product and platform work:
-
-1. Web publishing and interface development.
-2. Full-stack applications and persistence.
-3. Teaching and technical knowledge sharing.
-4. Payment and point-of-sale products.
-5. Architecture, integration and reliability responsibilities.

@@ -1,8 +1,5 @@
 # Professional experience before OLX
 
-> **Content note:** Published with conservative year-level dates reconstructed from historical CV
-> material. Month-level differences remain documented for later review.
-
 My career in software began in 1998, initially building websites and web applications and later moving
 through teaching, full-stack development, payment systems, software architecture and reliability work.
 These years established the mix of product delivery, technical breadth and knowledge sharing that I
@@ -55,9 +52,3 @@ This period traces a progression from the early web to increasingly complex prod
 3. Teaching and technical knowledge sharing.
 4. Payment and point-of-sale products.
 5. Architecture, integration and reliability responsibilities.
-
-## Verification note
-
-This page was reconstructed from historical CV material. Some source documents use different job
-titles or month-level dates for the same role. The year-level timeline above is intentionally
-conservative until those differences are confirmed.

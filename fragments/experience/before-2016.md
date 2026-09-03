@@ -7,12 +7,13 @@ later brought to large-scale backend and cloud platforms.
 
 ## Experience
 
-### Montreal Oficial - Software Engineer
+### Montreal Oficial - Tech Lead
 
-**2016 · São Paulo, Brazil**
+**January 2016-September 2016 · São Paulo, Brazil**
 
-Worked on São Paulo state transport billing systems. Designed, developed and operated Node.js
-applications in a border DMZ that integrated with internal SOA services.
+Led the architecture, development and operation of Node.js applications for São Paulo state transport
+billing systems. Operated the applications in a border DMZ and integrated them with internal SOA
+services.
 
 ### MUXI - Software Architect
 
@@ -20,12 +21,14 @@ applications in a border DMZ that integrated with internal SOA services.
 
 Designed and architected web MVPs for a company building point-of-sale solutions.
 
-### UOL / PagSeguro - Frontend Developer
+### UOL / PagSeguro - Webmaster
 
-**2012-2014 · São Paulo, Brazil**
+**December 2012-August 2014 · São Paulo, Brazil**
 
-Worked on products for one of South America's major digital wallets, payment gateways and point-of-sale
-platforms.
+Developed JavaScript and Java systems as frontend and backend responsibilities were becoming distinct
+engineering disciplines. Worked across multiple teams, including Phoenix, which operated across the
+product stack, and a team responsible for back-office systems. Contributed to partner checkout
+integrations, including invisible checkout flows, for PagSeguro's payment platform.
 
 ### Citelgroup Brasil (Citel) - Software Engineer
 

@@ -5,6 +5,10 @@ worked for and the first job whose product my mother immediately understood. Pag
 were changing how Brazilian businesses accepted payments, making card transactions more accessible
 and reducing the cost and complexity of traditional point-of-sale systems.
 
+The scale was already remarkable. In 2013, PagSeguro reported a base of 23 million buyers and more
+than 300,000 merchants, while 7.8 million consumers transacted through the platform that year. By the
+end of 2014, 463,000 active merchants were processing R$3.7 billion in annual total payment volume.
+
 PagSeguro was also expanding rapidly inside UOL. What had begun as a small number of teams was growing
 into an operation that occupied almost an entire floor. I moved from working alone or in very small
 groups to a team of around seven people inside an engineering organization of roughly one hundred.

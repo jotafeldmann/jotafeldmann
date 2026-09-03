@@ -87,6 +87,25 @@ exactly the kind of ownership that energized me at VivaReal.
 *Hack Week at VivaReal, July 2017: ideation, decision mapping and prototyping, with a hand-drawn
 “Jotinha” left on my workspace.*
 
+## Closing a supply-chain gap in a payment library
+
+That freedom to act also mattered outside planned product work. While integrating Adyen's client-side
+encryption library, I instinctively tried `npm install adyen-cse-web`. The package did not exist in the
+npm registry because the official instructions required applications to reference the Git repository
+directly from `package.json`.
+
+The mismatch created a software-supply-chain risk: an attacker could register the expected package
+name, publish an impostor and reach developers who followed the normal Node.js convention without
+first reading the repository instructions. I registered the name defensively with a harmless
+placeholder, reported the gap publicly to Adyen and opened a support ticket so the company could take
+control of it.
+
+After speaking with Adyen, I added its official `adyencom` account as an npm maintainer and coordinated
+the handoff. Once my access had been removed and the name was under Adyen's control, I verified the
+result and closed the public issue. It was a small intervention compared with the systems we were
+building, but a good example of the behavior that environment encouraged: notice a risk beyond your
+assigned work, take responsibility for containing it and leave ownership with the right team.
+
 ## Listings at the center of the platform
 
 After the merger, I joined the Listings squad. A listing—the advertisement for a property—was the
@@ -141,3 +160,5 @@ people are trusted with both the freedom to act and the responsibility to unders
 - [“Participando da Hackweek 2017”](https://medium.com/tech-grupozap/participando-da-hackweek-2017-f8dbd18010d2),
   my contemporary account of the preparation, cross-team collaboration and path from prototype to
   production.
+- [Adyen issue #79: “Resolve the NPM question name”](https://github.com/Adyen/adyen-cse-web/issues/79),
+  the public report and handoff record for the `adyen-cse-web` package name.

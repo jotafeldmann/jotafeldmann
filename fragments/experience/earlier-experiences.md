@@ -1,34 +1,11 @@
 # Earlier experiences
 
-My career in software began in 1998, initially building websites and web applications and later moving
-through teaching, full-stack development, payment systems, software architecture and reliability work.
-These years established the mix of product delivery, technical breadth and knowledge sharing that I
-later brought to large-scale backend and cloud platforms.
+My career in software began in 1998 with websites and web applications, followed by teaching and
+full-stack development across Java, PHP, JavaScript and database technologies. These early years built
+the technical breadth and knowledge-sharing experience I later brought to larger product and platform
+teams.
 
 ## Experience
-
-### Montreal Oficial - Tech Lead
-
-**January 2016-September 2016 · São Paulo, Brazil**
-
-Led the architecture, development and operation of Node.js applications for São Paulo state transport
-billing systems. Operated the applications in a border DMZ and integrated them with internal SOA
-services.
-
-### MUXI - Software Architect
-
-**2014-2015 · Rio de Janeiro, Brazil**
-
-Designed and architected web MVPs for a company building point-of-sale solutions.
-
-### UOL / PagSeguro - Webmaster
-
-**December 2012-August 2014 · São Paulo, Brazil**
-
-Developed JavaScript and Java systems as frontend and backend responsibilities were becoming distinct
-engineering disciplines. Worked across multiple teams, including Phoenix, which operated across the
-product stack, and a team responsible for back-office systems. Contributed to partner checkout
-integrations, including invisible checkout flows, for PagSeguro's payment platform.
 
 ### Citelgroup Brasil (Citel) - Software Engineer
 

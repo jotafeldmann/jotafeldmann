@@ -26,6 +26,38 @@ worked on a shared trunk, and monthly delivery cycles culminated in a difficult 
 experience made the cost of late integration tangible and shaped how I later thought about version
 control, smaller changes and collaboration across teams.
 
+## Leading a password-policy migration
+
+UOL later introduced a unified password policy across products including its portal, hosting, email
+and PagSeguro services. I represented PagSeguro in the cross-product discussions and was responsible
+for leading its frontend implementation over a two-month delivery window.
+
+The first challenge was discovery. PagSeguro had grown quickly, and there was no complete inventory of
+every login, account creation and password setup path. I began with the QA engineers, whose automated
+tests and product knowledge gave us the strongest starting point. Together we identified more than
+twenty flows, including seven legacy paths that had never been mapped or covered by tests.
+
+Those flows spanned at least four generations of frontend code, from old, unstructured jQuery pages to
+newer and more maintainable implementations. A central UOL group had designed shared visual and
+JavaScript components for password strength and validation, but adopting them safely required fitting
+the standard into each generation of PagSeguro's application.
+
+I designed a progressive rollout that began with a representative flow before moving to the highest
+volume account creation paths. PagSeguro was still a large Java monolith: static frontend assets and
+application code shipped together, and a deployment could take close to an hour. We kept the old and
+new experiences available behind a feature flag, established a rollback procedure and monitored
+repeated account-creation failures so affected users could recover without being lost.
+
+The rollout exposed both a JavaScript defect and a Java `NullPointerException` in another area of the
+application. I helped diagnose the incidents, implemented the Java correction and worked with QA to
+rerun the mapped flows. The migration completed successfully and gave PagSeguro a consistent password
+experience aligned with the broader UOL standard.
+
+The project taught me that leading a critical migration is as much about discovering the real system
+as implementing the visible component. Mapping forgotten paths, sequencing risk, planning rollback,
+observing user behavior and coordinating across product, QA, software and infrastructure were what
+made the change safe.
+
 ## The anti-phishing beacon
 
 One of my most meaningful contributions began outside a planned sprint. I overheard PagSeguro's head

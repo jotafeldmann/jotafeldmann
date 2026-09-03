@@ -39,9 +39,21 @@ Performance was a product concern rather than an isolated technical metric. I he
 to first byte from approximately four seconds to below 500 milliseconds and add frontend measurements
 such as time to first byte and first meaningful paint with SpeedCurve.
 
-Experimentation was part of how we worked. Ideas could move from sketches to prototypes, A/B tests and
-production. During the 2017 Hack Week, I built the backend for a points-of-interest proposal using Java
-and JavaScript. The experiment passed its A/B test and became a production feature.
+Hack Week turned experimentation into a focused ritual. We had about a month to propose ideas and form
+groups across Product and Engineering, followed by one intense week to build, test and present working
+prototypes. The strongest proposals could continue into production.
+
+I contributed to two Hack Week initiatives that reached production. For the condominium pages, which
+helped people find and compare properties inside a specific condominium, I built most of the backend
+and a smaller part of the frontend. For the points-of-interest experience, I worked only on the
+frontend, using the Google Maps API to place nearby locations on the map. It was one of my first deeper
+experiences with geographic and location-based product challenges. Both initiatives were team efforts
+and gave me room to contribute beyond my usual role.
+
+I described the experience at the time in
+[“Participando da Hackweek 2017”](https://medium.com/tech-grupozap/participando-da-hackweek-2017-f8dbd18010d2):
+the freedom to organize around an idea, work across roles and turn a prototype into a real product was
+exactly the kind of ownership that energized me at VivaReal.
 
 ![A yellow sticky note with a hand-drawn portrait labelled Jotinha over Hack Week notes about Crazy 8s, decision mapping, solution sketching and prototyping.](../../assets/experience/vivareal-hackweek-2017.jpg)
 

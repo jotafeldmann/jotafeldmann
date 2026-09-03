@@ -1,4 +1,4 @@
-# VivaReal / Grupo ZAP: freedom, ownership and scale
+# VivaReal / Grupo ZAP / OLX: freedom, ownership and scale
 
 I joined VivaReal on Friday, October 14, 2016. It became one of the most important workplaces of my
 career—not only because of what I built there, but because it clarified the kind of culture in which I
@@ -15,6 +15,35 @@ and helped build the unified Grupo ZAP platform. OLX announced its acquisition o
 final months there and completed it after I had left. That lineage is why this period now appears in my
 career as OLX Brasil / Grupo ZAP / VivaReal, even though the experience I lived directly was centered
 on VivaReal and Grupo ZAP.
+
+## From challenger to national-scale platform
+
+The “David and Goliath” comparison was common inside VivaReal. ZAP Imóveis had the history, brand and
+distribution of Grupo Globo behind it; VivaReal was the technology startup trying to build a better
+marketplace. Before I joined, that challenger had already overtaken ZAP in online real-estate traffic.
+In 2014, VivaReal had more than 2.5 million active listings across over 1,000 cities, more than 3
+million unique visitors per month and around 12,000 paying real-estate companies. Its share of sector
+traffic was 19.9%, compared with ZAP's 18.2%, while carrying about five times as many listings and
+obtaining all but 5% of its traffic organically; around half of ZAP's traffic was paid.
+
+Those figures give objective shape to what we experienced as quality compensating for unequal scale:
+strong product and engineering execution, broad inventory and efficient audience acquisition. When
+the companies announced their merger in November 2017, the combined operation had more than 7 million
+property offers, 20 million unique visitors, 40 million visits and over 4 million customer contacts per
+month. It served roughly 30,000 business customers and processed more than 100,000 property searches
+per hour. VivaReal CEO Lucas Vargas became CEO of the combined group.
+
+The next leap was already under way during my final months there. In March 2020, OLX Brasil announced
+that it would acquire Grupo ZAP for approximately R$2.9 billion. At announcement, Grupo ZAP had
+reported R$217 million in 2018 net revenue and averaged 28 million monthly visits in 2019; together,
+the platforms would offer more than 12 million listings from over 40,000 real-estate agencies and
+thousands of private advertisers. The transaction closed after I had left, so I treat OLX as the scale
+and lineage that followed the work rather than as ownership under which I delivered it.
+
+That lineage continued to compound. The later Grupo OLX describes itself as Brazil's largest
+classifieds marketplace, spanning OLX, ZAP and Viva Real, with more than 50 million monthly users, 200
+million monthly accesses, 60 million listings and 300,000 new listings per day. The numbers are later
+than my tenure, but they show what the platform lineage I helped unify eventually became.
 
 ## Learning beyond a single stack
 

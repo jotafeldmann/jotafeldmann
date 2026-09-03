@@ -50,9 +50,7 @@ frontend, using the Google Maps API to place nearby locations on the map. It was
 experiences with geographic and location-based product challenges. Both initiatives were team efforts
 and gave me room to contribute beyond my usual role.
 
-I described the experience at the time in
-[“Participando da Hackweek 2017”](https://medium.com/tech-grupozap/participando-da-hackweek-2017-f8dbd18010d2):
-the freedom to organize around an idea, work across roles and turn a prototype into a real product was
+The freedom to organize around an idea, work across roles and turn a prototype into a real product was
 exactly the kind of ownership that energized me at VivaReal.
 
 ![A yellow sticky note with a hand-drawn portrait labelled Jotinha over Hack Week notes about Crazy 8s, decision mapping, solution sketching and prototyping.](../../assets/experience/vivareal-hackweek-2017.jpg)
@@ -106,3 +104,11 @@ That combination of freedom, transparency and responsibility energized me. It he
 languages and domains, contribute beyond the boundaries of a ticket and eventually lead other
 engineers. More importantly, it gave me a durable way to evaluate a workplace: I do my best work where
 people are trusted with both the freedom to act and the responsibility to understand the whole.
+
+## Writing from this period
+
+- [“Trabalhando com super-heróis”](https://medium.com/tech-grupozap/trabalhando-com-super-herois-a5c91b51343d),
+  on learning from colleagues' individual strengths and the culture I found at VivaReal.
+- [“Participando da Hackweek 2017”](https://medium.com/tech-grupozap/participando-da-hackweek-2017-f8dbd18010d2),
+  my contemporary account of the preparation, cross-team collaboration and path from prototype to
+  production.

@@ -17,8 +17,10 @@ That scale changed my understanding of collaboration, shared ownership and produ
 ## Engineering across teams
 
 My official title was Webmaster, at a time when frontend and backend engineering were only beginning
-to become clearly separated disciplines. In practice, I worked across JavaScript, jQuery and Java in
-several contexts:
+to become clearly separated disciplines. I developed and maintained backend features with Java EE,
+JMS, Hibernate, JAX-RS, Spring and Spring MVC, including REST services using XML and JSON. On the
+frontend, I worked with JavaScript, jQuery, Velocity, HTML5, CSS and Sass. This work spanned several
+contexts:
 
 - Phoenix, a generalist team that worked across the product stack;
 - back-office systems used to operate the payment platform; and

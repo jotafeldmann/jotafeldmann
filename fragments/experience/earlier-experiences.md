@@ -16,9 +16,9 @@ Worked with Apache HTTPD, Nginx, Apache Tomcat and JBoss in Linux and Unix envir
 
 ### Centro Universitário Módulo - Teacher
 
-**2000-2010 · São Paulo, Brazil**
+**April 2000-December 2010 · Contract · São Paulo, Brazil**
 
-Taught game, Flash and web development as a contract teacher.
+Taught Microsoft Office, HTML, CSS, JavaScript and game development in Adobe Flash to help pay for my Computer Science degree.
 
 ### Planin - Full-stack Developer
 

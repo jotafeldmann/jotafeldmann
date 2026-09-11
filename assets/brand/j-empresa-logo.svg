@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Jota geometric J logo</title>
+  <desc id="description">A pale lilac geometric letter J with a folded upper corner on an olive green square.</desc>
+
+  <rect width="512" height="512" fill="#7d8f4c"/>
+
+  <path
+    fill="#ccbcd0"
+    d="M126 58h163l97 89v127c0 106-65 174-172 174h-88v-96h82c51 0 80-28 80-79V151H126z"
+  />
+
+  <path fill="#a8a17f" d="M289 58v89h97z"/>
+</svg>
